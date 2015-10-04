@@ -49,8 +49,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'http://syspay-sivalicomputer.rhcloud.com/'//'localhost';
-$db['default']['username'] = 'adminTiUSVNa'//'root';
-$db['default']['password'] = 'TWfSwLQdgR9t'//'';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
 $db['default']['database'] = 'syspay'//'db_syspay';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
